@@ -1,0 +1,49 @@
+﻿task,task_desc,subtask,subtask_desc
+MRA - Review objectives and best practices,"Migration  Readiness Assessment is a critical step early in the Migration Journey to  assess readiness of customers' applications for migrating to AWS. Customers  gain critical insights regarding readiness and build a plan to close the  identified gaps. 
+  The MRA also provides AWS and AWS Partners with an opportunity to build  trust and to be positioned as the preferred provider as customers expand  their adoption into the AWS Cloud.
+
+  As part of the MRA workflow, the primary task is to review the targeted  objectives of the migration journey. Targeted objectives may include Building  an overall vision, Creating a reliable implementation roadmap, Identifying  gaps and providing corrective actions etc. 
+
+  Reviewing the current architecture, security and governance, and preparing  for cloud adoption by creating concrete deliverables. By validating Migration  Readiness against the available best practices, customers can identify the  strengths and weaknesses of the current architecture and avoid possible  roadblocks while migrating.
+
+  More details regarding MRA can be found here:  https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-readiness/welcome.html	Migration  Readiness Assessment (MRA): https://mra-proserve.amazonaws.com/#/assessment	1)  Review the current architecture and identify strengths and weaknesses.
+  2) Create an implementation roadmap for migration using best  practices. ",,
+MRA - Pre-workshop activities,"Perform  pre-workshop activities as a first step in Migration Readiness Assessment.  The pre-workshop activities include:-
+  1) Identifying attendees
+  2) Pre-workshop questionnaire 
+  3) Planning the delivery (General and technical scope).	Migration  Readiness Assessment (MRA) : https://mra-proserve.amazonaws.com/#/assessment	1)  Create a list of attendees who support the MRA delivery
+  2) Create a Pre-workshop questionnaire",Identifying stakeholders,"Create a list  of attendees who will be part of a unified team that supports the Migration  Readiness Assessment (MRA) delivery. The attendees includes Migration expert  who facilitates the assessment activities, Customer expert who drives the  customer relationship etc.
+
+  More information on the attendees can be found here:  https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-readiness/assessment-meeting.html#attendees 	 Migration Readiness Assessment (MRA) : 
+https://mra-proserve.amazonaws.com/#/assessment	1) Create a  list of attendees who support the MRA delivery	1) Identify  list of attendees from various domains.
+   2) Create a list of attendees.
+   3) Review list with stakeholders.
+   4) List sign off."
+MRA - Pre-workshop activities,"Perform  pre-workshop activities as a first step in Migration Readiness Assessment.  The pre-workshop activities include:-
+  1) Identifying attendees
+  2) Pre-workshop questionnaire 
+  3) Planning the delivery (General and technical scope).	Migration  Readiness Assessment (MRA) : https://mra-proserve.amazonaws.com/#/assessment	1)  Create a list of attendees who support the MRA delivery
+  2) Create a Pre-workshop questionnaire",Pre-workshop Questionnaire,"This  task needs to be carried out by a Facilitator, Sponsor and Participant of the  Migration Readiness Assessment (MRA). Facilitator, who is the owner of the  assessment, with the support of the Sponsor and Participants, follows the  pre-workshop questionnaire workflow and assigns, follows up and reviews the  Pre-workshop questionnaire.	 Migration Readiness Assessment (MRA) : 
+https://mra-proserve.amazonaws.com/#/assessment	1) Complete Pre-workshop  questionnaire.	1) Facilitator  follows the Pre-workshop questionnaire
+  2) Facilitator/Sponsor/Participants complete the questionnaire
+  3) Facilitator reviews Pre-workshop questionnaire.
+  4) Pre-workshop questionnaire sign off."
+MRA - Pre-workshop activities,"Perform  pre-workshop activities as a first step in Migration Readiness Assessment.  The pre-workshop activities include:-
+  1) Identifying attendees
+  2) Pre-workshop questionnaire 
+  3) Planning the delivery (General and technical scope).	Migration  Readiness Assessment (MRA) : https://mra-proserve.amazonaws.com/#/assessment	1)  Create a list of attendees who support the MRA delivery
+  2) Create a Pre-workshop questionnaire",Planning the delivery,"Once  the Pre-workshop questionnaire is completed, Facilitator reviews the entire  questionnaire and understands the outcomes targeted. In addition to  scheduling the workshop events as part of the MRA, the Facilitator also  reviews the Technical scope of the MRA. 	 	 	 "
+MRA - Workshop activities,"MRA - Workshop activities	The  Facilitator organizes the workshop activities as a second step in Migration  Readiness Assessment. The workshop agenda includes:-
+
+   1) Executive perspective
+   2) Trends, success patterns, and alignment
+   3) Discovery
+   4) Financial enablement
+   5) Workshop results and closure	Migration  Readiness Assessment (MRA): https://mra-proserve.amazonaws.com/#/assessment	1)  Detailed MRA report
+  2)  Document the Next phase proposal",,
+MRA - Post-workshop activities,"MRA - Post-workshop activities	Post  the workshop completion, preparation for the Mobilize phase needs to be  started. As part of the preparation, the following needs to be taken  care:
+
+   1) Customers identify leader for Migration within the organization
+   2) Customers have commitment to move forward with the migration phases.  
+   3) Customers to decide on governance, security and operating processes.  
+   4) Create final SOW for Mobilize phase	Migration  Readiness Assessment (MRA): https://mra-proserve.amazonaws.com/#/assessment	1)  Create a detailed SOW for Mobilize phase",,
