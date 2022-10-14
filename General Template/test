@@ -1,0 +1,22 @@
+Migration Readiness Assessment is a critical step early in the Migration Journey to assess readiness of  customers' applications for migrating to AWS. Customers gain critical  insights regarding readiness and build a plan to close the identified gaps.  
+
+The MRA also provides AWS and AWS Partners with an opportunity to build trust and to be positioned as the preferred provider as customers expand  their adoption into the AWS Cloud.  
+
+As part of the MRA workflow, the primary task is to review the targeted  objectives of the migration journey. Targeted objectives may include Building  an overall vision, Creating a reliable implementation roadmap, Identifying gaps and providing corrective actions etc.  
+
+Reviewing the current architecture, security and governance, and preparing for cloud adoption by creating concrete deliverables. By validating Migration  Readiness against the available best practices, customers can identify the  strengths and weaknesses of the current architecture and avoid possible roadblocks while migrating.  
+
+More details regarding this task can be found at [Migration Readiness Assessment](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-readiness/welcome.html).  
+
+_tools_start_ 
+1. [Migration Readiness Assessment](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-readiness/welcome.html)
+_tools_end_  
+
+_ac_start_ 
+1. Review the  current architecture and identify strengths and weaknesses.
+1. Create an implementation roadmap for migration using best practices. 
+_ac_end_  
+
+
+
+
